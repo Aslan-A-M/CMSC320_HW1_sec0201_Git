@@ -9,7 +9,6 @@ Answer: We can apply data science to social science by gathering large amounts o
 and analyzing the trends among them in order to reveal societal patterns, like with a large election
 survey.
 
-
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging applies the changes of a current branch to the main branch,
