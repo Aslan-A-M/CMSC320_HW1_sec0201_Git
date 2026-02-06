@@ -2,3 +2,9 @@ Q1: Why might we consider using Git?
 
 Answer: For straightforward version control, especially in collaboration
 with other people who are working on the same project simultaneously.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: We can apply data science to social science by gathering large amounts of information about people
+and analyzing the trends among them in order to reveal societal patterns, like with a large election
+survey.
