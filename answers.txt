@@ -15,3 +15,7 @@ Answer: Merging applies the changes of a current branch to the main branch,
 preserving the history and combining them both into one. Rebasing just
 "replays" the sequence of edits from the main branch to the current
 branch, as if they happened in sequence from the main branch originally.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Finishing it.
